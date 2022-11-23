@@ -8,7 +8,7 @@ MERN stack and Flutter Developer
 * ✉️  You can contact me at [mohit.g.mg1996@gmail.com](mailto:mohit.g.mg1996@gmail.com)
 * 🧠  I'm learning AWS and for deploying and hosting applications on servers
 * 🤝  I'm open to collaborating on Open source contributions
-* ⚡  💬 Ask me about nodeJS, expressJS, react, flutter etc.
+* 💬  Ask me about nodeJS, expressJS, react, flutter etc.
 
 ### Skills
 
